@@ -1,0 +1,26 @@
+Sample,Model,Accuracy
+1,Logistic Regression,0.961038961038961
+1,Decision Tree,0.974025974025974
+1,Random Forest,0.974025974025974
+1,Support Vector Machine,0.974025974025974
+1,Gradient Boosting,0.974025974025974
+2,Logistic Regression,1.0
+2,Decision Tree,0.974025974025974
+2,Random Forest,1.0
+2,Support Vector Machine,1.0
+2,Gradient Boosting,1.0
+3,Logistic Regression,0.974025974025974
+3,Decision Tree,0.974025974025974
+3,Random Forest,0.974025974025974
+3,Support Vector Machine,0.974025974025974
+3,Gradient Boosting,0.974025974025974
+4,Logistic Regression,0.987012987012987
+4,Decision Tree,0.961038961038961
+4,Random Forest,0.987012987012987
+4,Support Vector Machine,0.987012987012987
+4,Gradient Boosting,0.961038961038961
+5,Logistic Regression,0.961038961038961
+5,Decision Tree,0.961038961038961
+5,Random Forest,0.974025974025974
+5,Support Vector Machine,0.974025974025974
+5,Gradient Boosting,0.974025974025974
